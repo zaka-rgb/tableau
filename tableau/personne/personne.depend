@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514144174 source:e:\prog\tableau\personne\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1522667979 source:e:\prog\tableau\personne\personne.c
+
+1522666585 e:\prog\tableau\personne\personne.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

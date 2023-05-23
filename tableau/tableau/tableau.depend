@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519127654 source:e:\prog\tableau\tableau\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
+1519127375 e:\prog\tableau\tableau\fonction.h
+
+1519127448 source:e:\prog\tableau\tableau\fonction.c
+	<stdio.h>
+	<stdlib.h>
+	"fonction.h"
+
